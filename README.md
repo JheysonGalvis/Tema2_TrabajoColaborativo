@@ -830,5 +830,34 @@ Este ciclo de vida asegura que las aplicaciones de aprendizaje de máquina se de
 Conclusión
 Este ciclo de vida asegura que las aplicaciones de aprendizaje de máquina se desarrollen de manera sistemática, permitiendo a las organizaciones aprovechar al máximo el potencial de esta tecnología. Cada etapa es crucial para el éxito final del proyecto, asegurando que el modelo no solo sea preciso, sino también útil en el contexto real de negocio.
 
+Francia Elena Loaiza Guevara
+Introducción al Machine Learning (ML)
+El Machine Learning (ML) es una disciplina clave dentro de la Inteligencia Artificial (IA) que se centra en permitir que las máquinas aprendan a partir de los datos. Este aprendizaje permite hacer predicciones, clasificaciones y tomar decisiones basadas en patrones ocultos en los datos. En esencia, el ML busca que las máquinas sean capaces de realizar tareas de manera similar a los humanos, sin necesidad de estar programadas explícitamente para cada acción.
+El campo del ML ha evolucionado considerablemente desde sus inicios en los años 50 y 60, cuando surgieron los primeros intentos por crear máquinas que pudieran aprender y resolver problemas. Actualmente, gracias al poder del procesamiento de datos y los avances en algoritmos, el ML se utiliza en diversas aplicaciones que van desde la medicina hasta la industria y la agricultura.
+Tipos de Problemas Abordados con ML
+Existen tres tipos principales de problemas que el ML puede resolver:
+1.	Clasificación: El objetivo es asignar etiquetas a los datos. Esto incluye la clasificación de correos electrónicos como spam o no spam, o la identificación de enfermedades a partir de imágenes médicas.
+2.	Regresión: En este caso, el ML predice un valor numérico continuo, como predecir el precio de una casa basado en datos históricos de ventas o proyectar las ventas futuras de un producto.
+3.	Clustering: El objetivo es agrupar datos que no están etiquetados en categorías, basándose en características similares. Por ejemplo, la segmentación de clientes para campañas de marketing.
+Aprendizaje Supervisado, No Supervisado y Semisupervisado
+El aprendizaje supervisado es el más común y consiste en entrenar al modelo con datos etiquetados, es decir, datos que contienen la respuesta correcta. Por ejemplo, clasifica imágenes de gatos y perros, el modelo es entrenado con imágenes ya etiquetadas como "gato" o "perro".
+El aprendizaje no supervisado no cuenta con datos etiquetados, y el modelo debe buscar patrones o relaciones en los datos sin guía. Ejemplo es el clustering, donde el modelo agrupa datos similares sin saber a qué grupo pertenecen.
+El aprendizaje semisupervisado combina ambos enfoques, utilizando una pequeña cantidad de datos etiquetados junto con una gran cantidad de datos no etiquetados para entrenar al modelo.
+Aplicaciones Reales del ML
+El Machine Learning ya está teniendo un impacto significativo en múltiples industrias y sectores. Ejemplo:
+•	Medicina: Los algoritmos de ML se utilizan para diagnosticar enfermedades, como el cáncer, analizando imágenes médicas.
+•	Administración Pública: Se emplea en la predicción de riesgos sociales, como la probabilidad de delitos o la identificación de fraudes en sistemas fiscales.
+•	Agricultura: Permite a los agricultores identificar cultivos y predecir la calidad de las cosechas mediante análisis de imágenes y datos meteorológicos.
+•	Manufactura: Los sistemas de ML ayuda a detectar fallos en maquinaria antes de que ocurran, minimizando el tiempo de inactividad mediante el mantenimiento predictivo.
+Proceso de Aplicación del ML
+El éxito de un proyecto de ML depende en gran medida de la calidad del proceso de entrenamiento y validación del modelo. Este proceso incluye dividir los datos en dos conjuntos: uno para entrenar el modelo (training set) y otro para probar su precisión (test set).
+Una práctica común es reservar el 70% de los datos para el entrenamiento y el 30% para las pruebas. La clave aquí es que los datos de prueba deben ser nuevos para el modelo, lo que permite evaluar su capacidad para generalizar y predecir correctamente en situaciones reales.
+El ajuste del modelo se llama calibración, y es esencial para evitar problemas como el "overfitting", donde el modelo se ajusta demasiado a los datos de entrenamiento y no funciona bien con datos nuevos.
+Retos y Futuro del Machine Learning
+El futuro del ML es prometedor, con desarrollos como los modelos de lenguaje generativo (GPT-4, LaMDA) que ya están revolucionando cómo interactuamos con las máquinas. Sin embargo, aún hay desafíos importantes. A pesar de los avances, las máquinas todavía carecen de sentido común y la ética en el ML es un tema crucial, especialmente en términos de privacidad y uso responsable de los datos.
+Los desarrollos en Inteligencia Artificial General (AGI) —máquinas que puedan aprender cualquier tarea humana— aún están en fases iniciales. Aunque se han logrado grandes avances, las máquinas todavía están lejos de igualar la complejidad del cerebro humano en cuanto a flexibilidad, adaptabilidad y juicio moral.
+
+Conclusión
+El Machine Learning transforma muchas áreas de nuestra vida cotidiana y tiene el potencial de seguir cambiando la forma en que abordamos problemas complejos en la ciencia, la tecnología y la innovación. Desde diagnósticos médicos hasta la optimización de procesos industriales, el ML nos permite ir más allá de lo que antes era posible, aunque también nos exige ser más responsables en su uso y conscientes de sus limitaciones y riesgos.
 
 
