@@ -487,6 +487,7 @@ Valentina Cepeda Duque
 
 Juan Diego Araque Muñoz
 
+
 José Luis Cardeño Tejada
 Se habla sobre el cilco de vida de una aplicación de aprendizaje de máquina.
 Se habla entonces del machene learning; como hacer que la computadora aprenda como un ser humano.
