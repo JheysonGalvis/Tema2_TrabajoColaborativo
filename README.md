@@ -449,6 +449,8 @@ Configuración de información – Predición real
 
 Luis Fernando Meneses Caviedes
 
+<img src="Phyton1_img.jpg" alt="Capas IA" width="400" height="218">
+
 Tema 2 - Historia y Ciclo de Vida de una Aplicación de Aprendizaje de Máquina
 
 El desarrollo de una aplicación de aprendizaje de máquina sigue un ciclo de vida estructurado que asegura que el modelo sea efectivo, preciso y útil. Cada etapa de este ciclo es crucial para el éxito del proyecto. A continuación, se describen las fases típicas en el ciclo de vida de una aplicación de aprendizaje de máquina, junto con ejemplos que ilustran cada paso.
