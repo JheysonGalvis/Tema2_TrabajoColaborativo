@@ -315,6 +315,9 @@ Mantenimiento y actualización: Se monitorea y actualiza el modelo continuamente
 
 
 Maritza Cristina Parra Jimenez
+Historia y ciclo de vida de una aplicación de aprendizaje de máquina
+Historia:  El aprendizaje automático tuvo sus inicios en las décadas de los años 1940 y 1950 con los trabajos pioneros de Alan Turing, desde entonces ha evolucionado con tecnología e innovación.
+Ciclo de vida:  Este tiene varias etapas- identificación del problema, recolección y análisis de datos, desarrollo y entrenamiento del modelo, evaluación y ajuste e implementación y monitoreo continuo.
 
 Robinson Loaiza Davila
 
