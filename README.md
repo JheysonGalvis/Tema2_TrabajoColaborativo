@@ -311,6 +311,27 @@ Claudia Cardenas
 Luis Angel Montoya Suárez 
 
 Yessica Marcela Triana Cordoba
+Inteligencia Articaal
+Tipos aprendage IA
+Mision 1:> Histona ado de vida do una aplicacion • Superuzadas =)
+Aprendizaje de maquina
+Machinee learning -> datos • reglas sobro datos, darle dados al programa y la maquiina diga las reglar
+(Pythons Idioma programación
+J. Identificar el problema
+2. Recolectar datos.
+3. Preparar datos →→ Cual sirve y cual no
+4.Ingenieria de modelos : selección de lgoritmos  y creación de caracteristicas
+5. Evaluar modelos: medir precisión, exactitus, recall FI socre
+Parametros de un modelo. Variable nuero internas de aprendizaje
+Has tiquetados No sopercicado => datos no etiquetados Reforzados aprendo toma doxción
+a. Ingenieria de Modelos → apton maquino = Seleccion algoritmos 15. Cual modelo + Medor
+RMSE = Valor real Predisiones - elevadas al cuadrado – sumarlas y divididas entro la suma real de datos a comparar
+lternativass Nube -Rest APY desplegue Ondly Edge
+Desarrollo Prototipo modelo
+6. Despleger→ Producirlo para que pueda ser usado
+ Integrar modelos con aplicaciones inesistentes Creacion APLs
+Creacion APIS
+Configuración de información – Predición real
 
 Luis Fernando Meneses Caviedes
 
