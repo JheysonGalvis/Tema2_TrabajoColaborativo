@@ -663,25 +663,25 @@ Maria Camila Castro Isa
 
 ## Fases en el ciclo de vida de una aplicación de aprendizaje de máquina:
 
-## 1. Identificación del problema:
+# 1. Identificación del problema:
 Se requiere responder, esto implica definir el objetivo del proyecto y determinar cómo el aprendizaje de máquina puede ayudar a alcanzar este objetivo.
 
-## 2. Recolección de datos:
+# 2. Recolección de datos:
 Que serán utilizados para entrenar el modelo. Deben ser relevantes, precisos y representativos del problema que se está tratando de resolver.
 
-## 3. Preparación de datos:
+# 3. Preparación de datos:
 Implica limpiar los datos, manejar los valores faltantes, normalizar y escalar las características, y dividir los datos en conjuntos de entrenamiento y prueba.
 
-## 4.Ingeniería de modelos:
+# 4.Ingeniería de modelos:
 Donde se seleccionan y entrenan modelos de aprendizaje de máquina, utilizando la prueba y preparación de modelos. Incluye la creación de características (feature engineering) y la realización de ajustes de hiperparámetros para obtener un mejor rendimiento del modelo. Ver video de introducción a machine learning.
 
-## 5. Evaluación del modelo:
+# 5. Evaluación del modelo:
 Esto implica medir la precisión, la exactitud, el recall, la F-score, entre otras métricas. Usando el conjunto de prueba, la evaluación ayuda a determinar si el modelo es suficientemente bueno para ser desplegado en un entorno real. Ver video de cómo seleccionar el mejor modelo para un problema en específico.
 
-## 6. Despliegue:
+# 6. Despliegue:
 Consiste en ponerlo en producción para que pueda ser utilizado en el entorno real. Esto puede implicar la estructura del modelo en aplicaciones clientes, la creación de APIs, el configurado de infraestructura para manejar las predicciones en tiempo real.
 
-## 7. Mantenimiento y actualización:
+# 7. Mantenimiento y actualización:
 Es importante monitorear el desempeño del modelo en producción y realizar actualizaciones periódicas para mejorar la precisión y relevancia. Esto puede implicar reentrenar el modelo con nuevos datos o ajustar los parámetros. (Ver video sobre el monitoreo en el ML.)
 
 Diana Carolina Arias Valencia
