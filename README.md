@@ -449,6 +449,8 @@ Configuración de información – Predición real
 
 Luis Fernando Meneses Caviedes
 
+<img src="Phyton1_img.jpg" alt="Capas IA" width="400" height="218">
+
 Tema 2 - Historia y Ciclo de Vida de una Aplicación de Aprendizaje de Máquina
 
 El desarrollo de una aplicación de aprendizaje de máquina sigue un ciclo de vida estructurado que asegura que el modelo sea efectivo, preciso y útil. Cada etapa de este ciclo es crucial para el éxito del proyecto. A continuación, se describen las fases típicas en el ciclo de vida de una aplicación de aprendizaje de máquina, junto con ejemplos que ilustran cada paso.
@@ -489,8 +491,9 @@ Juan Diego Araque Muñoz
 
 
 José Luis Cardeño Tejada
+
 Se habla sobre el cilco de vida de una aplicación de aprendizaje de máquina.
-Se habla entonces del machene learning; como hacer que la computadora aprenda como un ser humano.
+Así el machene learning, sería el cómo hacer que la computadora aprenda como un ser humano.
 Hay una reglas en los que se aplican unos datos que finalmente generan respuestas o resultados.
 Ahora se invertiria el aprendizaje dandole las respuestas en forma de datos a la computadora y hacemos que la computadora haga las reglas
 
@@ -514,8 +517,9 @@ LA idea es seleccionar el modelo más adecuado (las mejores predicciones). Se de
 su desempeño utilizando el set de datos y elegir el mejor modelo que genere las mejores predicciones (establecer la metrica de 
 desempeño) es una formula matemática. RMSE Raiz cuadrada del error cuadratico medio (entre más pequeño ese valor, mejor)
 
-
 6. Despliegue: ponerlo en producción para ser utilizado en el entorno real (Mlops)
+
+7. Mantenimiento y actualización. Para brindar soporte constante a la IA
 
 Geovanny Vergara Ramírez 
 ****
@@ -652,20 +656,29 @@ Siempre puedes seguir mejorando el modelo para que sea más preciso.
 Este proceso es cíclico, lo que significa que siempre puedes volver a pasos anteriores para mejorar el modelo o adaptarlo a nuevas necesidades.
 
 Maria Camila Castro Isa
+
 * El desarrollo de una aplicación de aprendizaje de máquina sigue un ciclo de vida estructurado que asegura que el modelo sea preciso, efectivo y útil. Cada etapa de este ciclo es crucial para el éxito del proyecto.
+
 ## Fases en el ciclo de vida de una aplicación de aprendizaje de máquina:
+
 ## 1. Identificación del problema:
 Se requiere responder, esto implica definir el objetivo del proyecto y determinar cómo el aprendizaje de máquina puede ayudar a alcanzar este objetivo.
+
 ## 2. Recolección de datos:
 Que serán utilizados para entrenar el modelo. Deben ser relevantes, precisos y representativos del problema que se está tratando de resolver.
+
 ## 3. Preparación de datos:
 Implica limpiar los datos, manejar los valores faltantes, normalizar y escalar las características, y dividir los datos en conjuntos de entrenamiento y prueba.
+
 ## 4.Ingeniería de modelos:
 Donde se seleccionan y entrenan modelos de aprendizaje de máquina, utilizando la prueba y preparación de modelos. Incluye la creación de características (feature engineering) y la realización de ajustes de hiperparámetros para obtener un mejor rendimiento del modelo. Ver video de introducción a machine learning.
+
 ## 5. Evaluación del modelo:
 Esto implica medir la precisión, la exactitud, el recall, la F-score, entre otras métricas. Usando el conjunto de prueba, la evaluación ayuda a determinar si el modelo es suficientemente bueno para ser desplegado en un entorno real. Ver video de cómo seleccionar el mejor modelo para un problema en específico.
+
 ## 6. Despliegue:
 Consiste en ponerlo en producción para que pueda ser utilizado en el entorno real. Esto puede implicar la estructura del modelo en aplicaciones clientes, la creación de APIs, el configurado de infraestructura para manejar las predicciones en tiempo real.
+
 ## 7. Mantenimiento y actualización:
 Es importante monitorear el desempeño del modelo en producción y realizar actualizaciones periódicas para mejorar la precisión y relevancia. Esto puede implicar reentrenar el modelo con nuevos datos o ajustar los parámetros. (Ver video sobre el monitoreo en el ML.)
 
@@ -820,17 +833,17 @@ Monitoreo del desempeño del modelo en producción y realizar actualizaciones pe
 
 Javier Eduardo Quintero Maken
 
-Resumen del Ciclo de Vida de una Aplicación de Aprendizaje de Máquina
-Identificación del Problema: Definir claramente el problema a resolver.
+# Resumen del Ciclo de Vida de una Aplicación de Aprendizaje de Máquina
+## Identificación del Problema: Definir claramente el problema a resolver.
 Ejemplo: Predecir la demanda de productos en una tienda.
-Recolección de Datos: Reunir datos relevantes y precisos para entrenar el modelo.
+## Recolección de Datos: Reunir datos relevantes y precisos para entrenar el modelo.
 Ejemplo: Datos históricos de ventas y tendencias de búsqueda.
-Preparación de Datos: Limpiar y normalizar los datos, dividiéndolos en conjuntos de entrenamiento y prueba.
+## Preparación de Datos: Limpiar y normalizar los datos, dividiéndolos en conjuntos de entrenamiento y prueba.
 Ejemplo: Eliminar duplicados y manejar valores faltantes.
-Ingeniería de Modelos: Seleccionar y entrenar diferentes modelos de aprendizaje de máquina.
+## Ingeniería de Modelos: Seleccionar y entrenar diferentes modelos de aprendizaje de máquina.
 Ejemplo: Experimentar con algoritmos de regresión y árboles de decisión.
-Evaluación del Modelo Medir el desempeño del modelo utilizando métricas adecuadas. (métrica de desempeño) la métrica se escogerá dependiendo del tipo de problema que queramos resolver. (RMSE)
-Seleccionar los posibles modelos a entrenar (algoritmos de machine learning canal YouTube)
+## Evaluación del Modelo Medir el desempeño del modelo utilizando métricas adecuadas. (métrica de desempeño) la métrica se escogerá dependiendo del tipo de problema que queramos resolver. (RMSE)
+### Seleccionar los posibles modelos a entrenar (algoritmos de machine learning canal YouTube)
 1.Máquina de soporte vectorial
 2.Bosque aleatorio
 3.Red neuronal
@@ -839,12 +852,12 @@ Tomar cada uno de los modelos encontrar sus parámetros y encontrar el set de lo
 Máquina de soporte vectorial 
 Seleccionar el mejor modelo 
 Estamos hablando del modelo que genere las mejores predicciones posible, sera el mejor modelo el que contenga el menor RMSE
-Despliegue Implementar el modelo en producción para su uso real.
+# Despliegue Implementar el modelo en producción para su uso real.
 Ejemplo: Integrar el modelo en el sistema de gestión de inventario.
-Mantenimiento y Actualización: Monitorear y actualizar el modelo para mantener su efectividad.
+# Mantenimiento y Actualización: Monitorear y actualizar el modelo para mantener su efectividad.
 Ejemplo: Reentrenar el modelo con nuevos datos si es necesario.
 Este ciclo de vida asegura que las aplicaciones de aprendizaje de máquina se desarrollen de manera efectiva y sean útiles en el contexto real.
-Conclusión
+## Conclusión
 Este ciclo de vida asegura que las aplicaciones de aprendizaje de máquina se desarrollen de manera sistemática, permitiendo a las organizaciones aprovechar al máximo el potencial de esta tecnología. Cada etapa es crucial para el éxito final del proyecto, asegurando que el modelo no solo sea preciso, sino también útil en el contexto real de negocio.
 
 Francia Elena Loaiza Guevara
