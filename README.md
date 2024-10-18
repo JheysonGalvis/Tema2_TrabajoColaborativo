@@ -461,6 +461,8 @@ VIEW ON YouTube
 
 El Machine Learning es el camino a la IA, aquí aplicaremos el lenguaje Phyton, cuando se trata de programación tradición se aplican Reglas para procesar los datos y asi obtener un resultado, en Machine Learning invertimos los papeles y en lugar de brindarle las reglas le damos los resultados o los datos para obtener las reglas.
 
+<img src="ML_img.jpg" alt="Capas IA" width="600" height="218">
+
 
 Sebastian de Jesus Garcia Lopez
 las fases de un ciclo de vida de una aplicacion de aprendizaje de maquina son:
