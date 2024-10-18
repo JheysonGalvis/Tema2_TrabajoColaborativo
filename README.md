@@ -892,4 +892,39 @@ Los desarrollos en Inteligencia Artificial General (AGI) —máquinas que puedan
 Conclusión
 El Machine Learning transforma muchas áreas de nuestra vida cotidiana y tiene el potencial de seguir cambiando la forma en que abordamos problemas complejos en la ciencia, la tecnología y la innovación. Desde diagnósticos médicos hasta la optimización de procesos industriales, el ML nos permite ir más allá de lo que antes era posible, aunque también nos exige ser más responsables en su uso y conscientes de sus limitaciones y riesgos.
 
+"RESUMEN JUAN DIEGO ARAQUE MUÑOZ TEMA 2 CICLO DE VIDA DE UNA APLICACION DE APRENDIZAJE DE MAQUINA"
 
+1. Ciclo de Vida de una Aplicación de Aprendizaje de Máquina
+2. 
+El ciclo de vida de una aplicación de aprendizaje de máquina sigue un flujo estructurado, desde la definición del problema hasta el mantenimiento y actualización del modelo. Los pasos son:
+
+1.1. Definición del Problema
+
+Todo comienza con la identificación de un problema que pueda ser resuelto mediante aprendizaje de máquina. Esto incluye definir claramente el objetivo del modelo, las métricas para medir su desempeño y los datos necesarios. Por ejemplo, si se busca clasificar correos electrónicos como "spam" o "no spam", se necesita recolectar correos electrónicos etiquetados para entrenar el modelo.
+
+1.2. Recolección y Preparación de Datos
+
+Los datos son el corazón de una aplicación de aprendizaje de máquina. En esta fase, se recopilan los datos crudos (datos estructurados o no estructurados como imágenes, texto, registros de sensores, etc.). Estos datos luego se limpian, se transforman y se dividen en conjuntos de entrenamiento, validación y prueba.
+
+1.3. Selección del Modelo
+
+Con los datos listos, se elige un algoritmo de aprendizaje que sea adecuado para el problema. Existen diferentes tipos de algoritmos según el tipo de problema:
+•	Aprendizaje supervisado: Algoritmos como regresión, árboles de decisión y redes neuronales.
+•	Aprendizaje no supervisado: Algoritmos como k-means para clustering.
+•	Aprendizaje por refuerzo: Agentes que toman decisiones basadas en la retroalimentación de un entorno.
+
+1.4. Entrenamiento del Modelo
+
+Aquí es donde el modelo aprende patrones de los datos de entrenamiento. Los algoritmos ajustan sus parámetros internos utilizando técnicas como la optimización de gradiente descendente para minimizar la diferencia entre las predicciones del modelo y los resultados reales.
+
+1.5. Evaluación del Modelo
+
+Una vez entrenado, el modelo se evalúa utilizando el conjunto de datos de validación o prueba. Las métricas de evaluación como la precisión, la F1-score o el AUC-ROC se calculan para determinar el rendimiento del modelo. Si los resultados no son satisfactorios, es posible ajustar los parámetros o probar con diferentes algoritmos.
+
+1.6. Despliegue
+
+Si el modelo cumple con las expectativas, se despliega en un entorno de producción donde se integrará con sistemas existentes y empezará a procesar datos en tiempo real o en lotes, generando predicciones o decisiones automáticas.
+
+1.7. Mantenimiento y Monitoreo
+
+Después del despliegue, el modelo necesita ser monitoreado continuamente para asegurarse de que sigue funcionando bien, dado que los datos pueden cambiar con el tiempo (desviación del concepto). Es posible que se necesiten nuevas rondas de entrenamiento con datos actualizados para mantener la precisión del modelo.
