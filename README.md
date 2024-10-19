@@ -402,6 +402,8 @@ Corregir errores y fallas del modelo y/o actualizarlo.
 
 
 Luis Angel Montoya Suárez
+<img src="En blanco 3.pages" alt="Capas IA" width="400" height="300"> 
+
 ## Ciclo de vida de una aplicación de  de aprendizaje de máquina
 
 1. Identificación de un problema
