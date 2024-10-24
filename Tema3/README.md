@@ -182,5 +182,16 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 
 <img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="700">
 
+# Grupo 2
+## Integrantes 
+
+-Miguel
+-Luis
+-Yimer
+-Carlos B
+-D
+<img src="TEMA3_ML_G2.jpeg" alt="trabajo colaborativo" width="300" height="200">
+<img src="TEMA3_ML_G2}.jpeg" alt="trabajo colaborativo" width="300" height="200">
+
 
 
