@@ -1,8 +1,8 @@
-# Grupo 0
+# Grupo 1 - Cinco Neuronas
 ## Integrantes
-### Salilor Moon, Naruto, Inuyasha, Gokú
-Lorem lorem
-* una lista
-* sdfsd
+Claudia
+Lorena
+Maria Victoria
+Jaime
+Giovanny
 
-* 
