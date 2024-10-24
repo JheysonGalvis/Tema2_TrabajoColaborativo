@@ -111,6 +111,7 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 *Edison Echavarria
 *Victor Gutierrez
 *Luis Fernando Meneses
+*Valentina Cepeda
 
 <img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
