@@ -84,6 +84,8 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 
 ## Integrantes
 
+
+
 - Claudia Cárdenas
   
 - Claudia Lorena Ramírez
@@ -99,8 +101,10 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 <img src="infografia_ML.png" alt="infografía ML" width="400" height="1000">
 
 ### **Tema 3**
+
 <img src="infografia_ML.png" alt="infografía ML" width="400" height="1000">
 
+### **Tema 3**
 
 # Grupo 5
 ## INTEGRANTES:
@@ -112,7 +116,11 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 *Victor Gutierrez
 *Luis Fernando Meneses
 
-<img src="Tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
+<img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
+
+
+
+
 
 
 
