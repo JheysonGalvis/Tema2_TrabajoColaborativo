@@ -155,7 +155,20 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 "Desarrollar un modelo que prediga la producción de energía solar basada en datos meteorológicos, ubicación geográfica y características del panel solar, para maximizar la eficiencia y reducir costos."
 "Desarrollar un modelo que prediga el rendimiento de cultivos basado en datos de suelo, clima y prácticas agrícolas, para aumentar la producción y promover la sostenibilidad."
 
+# Grupo 6
+## Integrantes:
+*Diana Arias
+*Jairo Acosta
+*Diana Maribel Balaguera
+*José Cardeño
+*Carlos Dario Bolaños
+*Maritza Parra
+*Ximena Perez
+*Neider Usuga
+*Francia Elena Loaiza
+*Sebastian Garcia
 
+<img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="200">
 
 
 
