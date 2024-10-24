@@ -114,7 +114,40 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 
 <img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
+# GRUPO 3
 
+# Como Definir un problema de Machine Learning
+
+Recoger los datos, predecir con valores y tener un listado de estrategias
+
+## 1. Definir el problema usando un lenguaje informal 
+	Es el primer paso crucial en la identificación del problema, describir el problemas en pocas palabra de forma muy concisa de tal manera que cualquiera sin ser experto pueda entenderlo. 
+	
+## 2. Formalizar el problema usando el lenguaje de machine learning 
+	Debemos traducir el problema a un lenguaje técnico o machine learning 
+	
+## 3. Pensar cómo resolveríamos el problema manualmente
+    Debemos de pensar que tipos de datos y cuantos datos tenemos al igual que donde vamos a recolectar y que tipos de modelos podemos usar para genera las predicciones. Con esta paso podemos que tan viable para saber si debemos de usar modelos de machine learning 
+
+### Al seguir este proceso podemos ahorrar tiempo ya que al seguir cada paso podemos indentificar si contamos con todos los elementos encesarios para hacer uso de machine learning
+
+<br>
+
+### <b>Problema Específico:</b> Identificar el problema exacto que se desea resolver.
+<br>
+
+### <b>Metas y KPIs:</b> Definir las métricas de éxito y los indicadores clave de rendimiento (KPIs) que permitirán evaluar si el objetivo se ha alcanzado.
+
+<br>
+
+###  <b>Impacto del Negocio:</b>
+
+Entender cómo la solución del problema beneficiará a la organización o al proyecto.
+
+# <b>ejemplo</b> 
+
+"Desarrollar un modelo que prediga la producción de energía solar basada en datos meteorológicos, ubicación geográfica y características del panel solar, para maximizar la eficiencia y reducir costos."
+"Desarrollar un modelo que prediga el rendimiento de cultivos basado en datos de suelo, clima y prácticas agrícolas, para aumentar la producción y promover la sostenibilidad."
 
 
 
