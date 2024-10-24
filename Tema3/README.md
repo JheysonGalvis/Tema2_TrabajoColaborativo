@@ -80,12 +80,16 @@ datos meteorológicos precisos y detallados, y datos de características de pane
 También considera si tiene la infraestructura tecnológica adecuada y el personal calificado (científicos de datos, ingenieros de energía).
 para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados con la precisión de los datos meteorológicos y la variabilidad en la producción de energía.
 
-# Grupo 1 - Cinco Neuronas
+# Grupo 1 - Seis Neuronas
+
 ## Integrantes
-Claudia
-Lorena
-Maria Victoria
-Jaime
-Giovanny
+Claudia Cárdenas
+Claudia Lorena Ramírez
+Maria Victoria Valencia
+Jaime Andrés Londoño
+Geovanny Vergara
+Javier Andrés Vargas
 
+### **Tema 3**
 
+<img src="infografia_ML.png" alt="infografía ML" width="400" height="300">
