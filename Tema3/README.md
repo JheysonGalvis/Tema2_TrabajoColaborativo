@@ -105,13 +105,21 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 # Grupo 5
 ## INTEGRANTES:
 *Roberto Sanchez
-*jhoksser Mejia
-*Esteban Ruiz
-*Wilmer jamioy
-*Edison Echavarria
-*Victor Gutierrez
-*Luis Fernando Meneses
-*Valentina Cepeda
+
+»jhoksser Mejia
+
+»Esteban Ruiz
+
+»Wilmer jamioy
+
+»Edison Echavarria
+
+»Victor Gutierrez
+
+»Luis Fernando Meneses
+
+»Valentina Cepeda
+
 
 <img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
