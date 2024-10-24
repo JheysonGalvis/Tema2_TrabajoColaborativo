@@ -1,3 +1,8 @@
-Grupo 0
-Goku, Inuyasha, Sailor Moon, Sakura, Naruto
-Lorem impum Lorem impum Lorem impum
+# Grupo 0
+## Integrantes
+### Salilor Moon, Naruto, Inuyasha, Gokú
+Lorem lorem
+* una lista
+* sdfsd
+
+* 
