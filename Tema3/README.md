@@ -1,3 +1,4 @@
+Danicp97-patch-1
 Grupo X
 
 Daniel Calle Pulgarin, Jesus Alonso Combariza
@@ -78,4 +79,13 @@ Para el proyecto de optimización de la generación de energía solar, la empres
 datos meteorológicos precisos y detallados, y datos de características de paneles solares. 
 También considera si tiene la infraestructura tecnológica adecuada y el personal calificado (científicos de datos, ingenieros de energía).
 para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados con la precisión de los datos meteorológicos y la variabilidad en la producción de energía.
+
+# Grupo 1 - Cinco Neuronas
+## Integrantes
+Claudia
+Lorena
+Maria Victoria
+Jaime
+Giovanny
+
 
