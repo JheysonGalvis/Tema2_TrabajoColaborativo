@@ -1,4 +1,4 @@
-Danicp97-patch-1
+****Danicp97-patch-1
 Grupo X
 
 Daniel Calle Pulgarin, Jesus Alonso Combariza
@@ -161,10 +161,11 @@ Recoger los datos, predecir con valores y tener un listado de estrategias
 
 Entender cómo la solución del problema beneficiará a la organización o al proyecto.
 
-# <b>ejemplo</b> 
+<img src="BTC.png" alt="mapa mental grupo 3" width="300" height="700">
 
-"Desarrollar un modelo que prediga la producción de energía solar basada en datos meteorológicos, ubicación geográfica y características del panel solar, para maximizar la eficiencia y reducir costos."
-"Desarrollar un modelo que prediga el rendimiento de cultivos basado en datos de suelo, clima y prácticas agrícolas, para aumentar la producción y promover la sostenibilidad."
+## Integrantes
+* Carlos Perea
+* Kevin Tejada
 
 # Grupo 6
 ## Integrantes:
