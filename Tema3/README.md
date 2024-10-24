@@ -114,6 +114,11 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 
 <img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
+## Nueva imagen
+
+<img src="grupo5_new_image.jfif" alt="trabajo colaborativo grupo5" width="300" height="200">
+
+
 
 
 
