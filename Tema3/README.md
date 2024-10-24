@@ -173,7 +173,6 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 -Jairo Acosta
 -Diana Maribel Balaguera
 -José Cardeño
--Carlos Dario Bolaños
 -Maritza Parra
 -Ximena Perez
 -Neider Usuga
@@ -181,6 +180,27 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 -Sebastian Garcia
 
 <img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="700">
+
+## Explicación de nuestro mapa de idea: ¿Cómo definir el problema en un proyecto ML?
+
+- Identificar la necesidad para poder partir desde esta y definir el problema,
+Esta puede ser la idea principal del 1er ejemplo: “Modelo de Predicción de Producción de Energía Solar”
+
+- Definir el problema: Sintetizar y delimitar la idea inicial usando un lenguaje formal adecuado (Lenguaje natural) El problema se puede definir claramente como el desarrollo de un modelo de aprendizaje de máquina que prediga la producción de energía solar basada en datos meteorológicos, geográficos y técnicos de los paneles solares. 
+El objetivo principal:Optimizar la eficiencia energética y reducir costos operativos a través de predicciones precisas que permitan una mejor planificación y operación.
+  - Objetivos específicos
+  - Maximizar eficiencia
+  - Reducir costos
+- Definir el problema en terminos de ML: Es necesario traducir esta información formalizando el problema definido en términos del Machine learning, realizando la especificación de los datos a usar, cuáles son los datos de entrada y de salida, la métrica del desempeño que se usará, y el horizonte o tiempo definido.
+
+- Trazar plan o listado de estrategias y requerimientos que se usarán para el análisis y la solución del problema, esta fase es muy importante realizarse antes de continuar con la resolución del problema. Ejemplos de esto tenemos los siguientes puntos:
+  - Tipo de datos a usar
+  - Cómo se recolectarán estos datos, dónde se consiguen y cómo se pueden procesar
+  - Qué modelos se usarán
+
+**Resolver y analizar manualmente esta información nos ayudará a identificar si se cumplen todos los requerimientos para continuar con la solución del problema, si el tiempo o los datos recolectados no son suficientes o si el problema como tal no puede ser resuelto haciendo uso de procesos de Machine learning.**
+
+
 
 # Grupo 2
 ## Integrantes 
