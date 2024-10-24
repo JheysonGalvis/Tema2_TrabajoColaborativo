@@ -170,15 +170,15 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 # Grupo 6
 ## Integrantes:
 
--Diana Arias
--Jairo Acosta
--Diana Maribel Balaguera
--José Cardeño
--Maritza Parra
--Ximena Perez
--Neider Usuga
--Francia Elena Loaiza
--Sebastian Garcia
+- Diana Arias
+- Jairo Acosta
+- Diana Maribel Balaguera
+- José Cardeño
+- Maritza Parra
+- Ximena Perez
+- Neider Usuga
+- Francia Elena Loaiza
+- Sebastian Garcia
 
 <img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="700">
 
