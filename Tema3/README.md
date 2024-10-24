@@ -161,7 +161,7 @@ Recoger los datos, predecir con valores y tener un listado de estrategias
 
 Entender cómo la solución del problema beneficiará a la organización o al proyecto.
 
-<img src="BTC.png" alt="mapa mental grupo 3" width="300" height="700">
+<img src="BTC.png" alt="mapa mental grupo 3" width="100%">
 
 ## Integrantes
 * Carlos Perea
