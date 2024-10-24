@@ -118,8 +118,18 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 
 <img src="tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
-
-
+# Grupo 6
+## Integrantes:
+*Diana Arias
+*Jairo Acosta
+*Diana Maribel Balaguera
+*José Cardeño
+*Carlos Dario Bolaños
+*Maritza Parra
+*Ximena Perez
+*Neider Usuga
+*Francia Elena Loaiza
+*Sebastian Garcia
 
 
 
