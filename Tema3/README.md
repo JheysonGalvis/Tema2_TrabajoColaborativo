@@ -96,6 +96,8 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
   
 - Javier Andrés Vargas
 
+<img src="infografia_ML.png" alt="infografía ML" width="400" height="1000">
+
 ### **Tema 3**
 
 
@@ -112,5 +114,5 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 
 <img src="Tema3Readme.png" alt="trabajo colaborativo" width="300" height="200">
 
-<img src="infografia_ML.png" alt="infografía ML" width="400" height="1000">
+
 
