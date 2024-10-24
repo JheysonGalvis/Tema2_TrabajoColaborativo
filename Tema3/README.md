@@ -168,7 +168,7 @@ Entender cómo la solución del problema beneficiará a la organización o al pr
 *Francia Elena Loaiza
 *Sebastian Garcia
 
-<img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="200">
+<img src="1.jpeg" alt="trabajo colaborativo grupo6" width="300" height="1000">
 
 
 
