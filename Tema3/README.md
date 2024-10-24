@@ -92,4 +92,4 @@ Javier Andrés Vargas
 
 ### **Tema 3**
 
-<img src="infografia_ML.png" alt="infografía ML" width="400" height="300">
+<img src="infografia_ML.png" alt="infografía ML" width="400" height="1000">
