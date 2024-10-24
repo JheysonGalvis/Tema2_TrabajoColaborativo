@@ -83,12 +83,18 @@ para llevar a cabo el proyecto. Se analizan los posibles riesgos relacionados co
 # Grupo 1 - Seis Neuronas
 
 ## Integrantes
-Claudia Cárdenas
-Claudia Lorena Ramírez
-Maria Victoria Valencia
-Jaime Andrés Londoño
-Geovanny Vergara
-Javier Andrés Vargas
+
+- Claudia Cárdenas
+  
+- Claudia Lorena Ramírez
+  
+- Maria Victoria Valencia
+  
+- Jaime Andrés Londoño
+  
+- Geovanny Vergara
+  
+- Javier Andrés Vargas
 
 ### **Tema 3**
 
