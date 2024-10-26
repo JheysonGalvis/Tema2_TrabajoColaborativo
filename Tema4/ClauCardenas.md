@@ -1,4 +1,4 @@
-# RECOLECION DE DATOS
+# RECOLECCION DE DATOS
 La calidad y cantidad de datos pueden determinar el exito del modelo
 
 ## 1. Fuentes de datos
